@@ -7,4 +7,4 @@
 
 ![Anthunt's github stats](https://github-readme-stats.vercel.app/api?username=anthunt)
 
-![Hits Graph](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/anthunt){: width="300px" height="300px"}{: .center}
+![Hits Graph](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/anthunt)
