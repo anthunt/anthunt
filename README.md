@@ -2,4 +2,4 @@
 
 [![Anthunt's github stats](https://github-readme-stats.vercel.app/api?username=anthunt)](https://github.com/anthunt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthunt&layout=compact)](https://github.com/anthunt)
 
-![Hits Graph](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/anthunt)
+[![Hits Graph](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/anthunt)](https://github.com/anthunt)
