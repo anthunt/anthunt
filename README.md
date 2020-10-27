@@ -3,13 +3,3 @@
 [![Anthunt's github stats](https://github-readme-stats.vercel.app/api?username=anthunt)](https://github.com/anthunt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthunt&layout=compact)](https://github.com/anthunt)
 
 [![Hits Graph](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/anthunt)](https://github.com/anthunt)
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H79MBTDNG9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-H79MBTDNG9');
-</script>
